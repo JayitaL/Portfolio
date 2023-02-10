@@ -1,0 +1,29 @@
+.special{
+    color: black;
+    font-weight: bold;
+}
+.education{
+    font-size:x-large;
+    font-family:'Times New Roman', Times, serif;
+    color: rgba(82, 161, 213, 0.908);
+}
+h1{
+    height: 70px;
+    width: 900px;
+    text-align: right;
+    font-weight: 100;
+    text-decoration: solid;
+    font-family: 'Lato', Tahoma, Geneva, Verdana, sans-serif;
+}
+.details{
+    text-align: center;
+    word-spacing: 1cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgba(82, 161, 213, 0.689);
+}
+.edu{
+    text-align: center;
+}
+ul li{
+    list-style-type: square;
+}
