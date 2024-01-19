@@ -1,1 +1,1 @@
-# This is my Portfolio. It has an attachment for downloading my resume too.
+# This is my Portfolio. It was created using html and css.
